@@ -1,1 +1,11 @@
-# AlgorithmWithC
+# AlgorithmWithC* L6 (Linked Lists)
+* L7 (Stacks)
+* L8 (Queues)
+* L9 (Trees)
+* L10 (Efficient Binary Trees)
+* L11 (Multi-way Search Trees)
+* L12 (Heaps)
+* L13 (Graphs)
+* L14 (Searching and Sorting)
+* L15 (Hashing and Collision)
+* L16 (Files and Their Organization)
